@@ -9,11 +9,11 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-{Add your stuff here}
+With this data analytical set I hope to see if there is a certain correlation between the prices and the selective factors and why certain factors effect the cost of the medical cost in a specific way.
 
 ## Describe your dataset in about 150-200 words
 
-{Add your stuff here}
+This dataset was used to study the medical expenses of a small set of individuals in the United States of America. In the dataset the data consists on the prices that certain individuals have to pay based on their respective following conditions.
 
 ## Team Member
 
@@ -22,4 +22,4 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## References
 
-{Add your stuff here}
+
