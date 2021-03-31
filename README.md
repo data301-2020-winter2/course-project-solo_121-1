@@ -3,7 +3,7 @@
 
 >We Will be examining a the relationship between the medical patients taken factors and the charges of them.
 
-## Milestones
+## Milestones 
 
 Details for Milestone are available on Canvas (left sidebar, Course Project) or [here](https://firas.moosvi.com/courses/data301/project/milestone01.html).
 
