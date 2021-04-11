@@ -15,6 +15,9 @@ With this data analytical set I hope to see if there is a certain correlation be
 
 This dataset was used to study the medical expenses of a small set of individuals in the United States of America. In the dataset the data consists on the prices that certain individuals have to pay based on their respective following conditions.
 
+## Online Dashboard
+https://us-west-2b.online.tableau.com/#/site/data301/projects/130841
+
 ## Team Member
 
 - Ogo.O: I am an interesting individual.
