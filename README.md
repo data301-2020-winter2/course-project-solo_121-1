@@ -17,7 +17,8 @@ This dataset was used to study the medical expenses of a small set of individual
 
 ## Online Dashboard
 https://us-west-2b.online.tableau.com/#/site/data301/projects/130841
-
+## Video presentation
+  https://www.youtube.com/watch?v=JY-W7SroemU
 ## Team Member
 
 - Ogo.O: I am an interesting individual.
